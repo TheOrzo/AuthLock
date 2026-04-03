@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:TheOrzo/SharedSafe-web.git
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:TheOrzo/SharedSafe-hardware.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:TheOrzo/SharedSafe-backend.git
